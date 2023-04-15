@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MarbDeWcEend
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on not much
 - 📫 How to reach me just dm me on discord: MarbDeWcEend#6184
 
 <!---
